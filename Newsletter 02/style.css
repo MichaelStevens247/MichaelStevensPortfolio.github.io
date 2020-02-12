@@ -1,0 +1,207 @@
+body{
+    background-color: #ffffff;
+}
+
+#bigtable{
+    /* background-color: #ffffff; */
+    table-layout: fixed;
+    
+}
+
+#header{
+    background-color: #f3f4f5;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.one{
+    color:#555555;
+    font-family:Arial,Helvetica, Helvetica,sans-serif;
+    line-height:1.8;
+    font-size: 22px;
+    border-top: #f96854 6px solid;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+#firsttext{
+    padding-left: 40px;
+    padding-right : 40px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    line-height:1.8;
+    font-family:Helvetica ,Helvetica,Arial,sans-serif;
+    font-size:13px;
+    color:#555555;
+    border-bottom: 2px solid #b0b0b0;
+}
+
+strong{
+    font-size: 22px;
+}
+
+.orange{
+    text-decoration: none;
+    color: #ff9b7a;
+    font-weight: bolder;
+    font-family:Arial,Helvetica, Helvetica,sans-serif;
+}
+
+.transparent{
+    background-color:#f3f4f5;
+    width: 100%;
+}
+
+.two{
+    color:#555555;
+    font-family:Arial,Helvetica, Helvetica,sans-serif;
+    line-height:1.8;
+    font-size: 22px;
+    border-top: #3aaee0 6px solid;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+#three{
+    width:100%;
+    border-bottom: 2px solid #b0b0b0;
+}
+
+.imgthree{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.threecell{
+    width: 40%;
+}
+
+.threeheading{
+    font-size: 14px;
+    font-size:13px;
+    line-height:1.2;
+    font-family:Arial,Helvetica,sans-serif;
+    color:#555555;
+}
+
+.threeparagraph{
+    font-size:13px;
+    line-height:1.5;
+    font-family:Arial,Helvetica Neue,Helvetica,sans-serif;
+    color:#555555;
+    padding-top: 10px;
+}
+
+.four{
+    color:#555555;
+    font-family:Arial,Helvetica, Helvetica,sans-serif;
+    line-height:1.8;
+    font-size: 22px;
+    border-top: #63d6a3 6px solid;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.fourimg{
+    width: 240px;
+}
+
+.fourcell{
+    padding: 15px;
+}
+
+.fourheader{
+    width: 240px;
+    padding-top: 10px;
+    text-decoration: none;
+    color: #ff9b7a;
+    font-weight: bolder;
+    font-size: 12px;
+    font-family:Arial,Helvetica, Helvetica,sans-serif;
+}
+
+.fourparagraph{
+    padding-top: 10px;
+    font-size:15px;
+    line-height:1.2;
+    font-family:Arial,Helvetica,sans-serif;
+    color:#555555;
+}
+
+#fourtable{
+    border-bottom: 2px solid #b0b0b0;
+}
+
+.five{
+    color:#555555;
+    font-family:Arial,Helvetica, Helvetica,sans-serif;
+    line-height:1.8;
+    font-size: 22px;
+    border-top: #ffdb49 6px solid;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.fiveparagraph{
+    line-height:1.8;
+    font-family: Helvetica,Helvetica,Arial,sans-serif;
+    font-size:14px;
+    color:#555555;
+}
+
+.rsvpbutton{
+    font-family: Helvetica,Helvetica,Arial,sans-serif;
+    display: inline-block;
+    font-size: 10px;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #f96854;
+    padding: 10px;
+}
+
+.fivebottom{
+    border-top: 2px solid #b0b0b0;
+}
+
+.fivebutton{
+    padding-bottom: 15px;
+}
+
+#six{
+    border-top: #3aaee0 6px solid;
+    background-color:#f3f4f5;
+    font-family: Helvetica,Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    color: #999999;
+}
+
+#siximg{
+    width: 64px;
+}
+
+.sixlink{
+    width: 32px;
+    padding: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.endlinks{
+    color: #999999;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+
+/* <div style="font-size:13px;line-height:1.2;font-family:Arial,Helvetica Neue,Helvetica,sans-serif;color:#555555">
+
+													<p style="font-size:14px;line-height:1.2;margin:0">Why would a rapper get in the ring with a pro-wrestler? 
+
+Rapper Open Mike Eagle talks about that and his six-part documentary, 
+
+<strong><a style="text-decoration:none;color:#ff9b7a" href="https://patreon.apms5.com/anywhere/m?s=patreon&amp;m=s_6a6f7e1f-973b-40bc-a2a0-f30889553c0d&amp;u=e1jq4wvfdtfmch9h6ct36ca15mvkjctn5mu3je9n5n0k0h265mtk8hj38rt42e2370tk0&amp;r2=d1u78w3k78qjyxvqewq70rbme9jpyvhecdqpubvfe1jpwvb9ddjparb7dhjg&amp;n=8" rel="noopener" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://patreon.apms5.com/anywhere/m?s%3Dpatreon%26m%3Ds_6a6f7e1f-973b-40bc-a2a0-f30889553c0d%26u%3De1jq4wvfdtfmch9h6ct36ca15mvkjctn5mu3je9n5n0k0h265mtk8hj38rt42e2370tk0%26r2%3Dd1u78w3k78qjyxvqewq70rbme9jpyvhecdqpubvfe1jpwvb9ddjparb7dhjg%26n%3D8&amp;source=gmail&amp;ust=1576548215305000&amp;usg=AFQjCNElgQSikjbiyfsM41vT697eJSsWXQ">Clapback</a></strong>, released exclusively 
+
+through his Patreon.&nbsp;</p>
+
+												</div> */
